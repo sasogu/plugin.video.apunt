@@ -23,7 +23,7 @@ from BeautifulSoup import BeautifulSoup
 from resources.lib.tv3_strings import TV3Strings
 from resources.lib.utils import buildUrl, getHtml, getDataVideo, toSeconds
 
-url_base = 'https://apuntmedia.es/va/'
+url_base = 'http://www.ccma.cat'
 url_alacarta = 'http://www.ccma.cat/tv3/alacarta/'
 url_coleccions = 'http://www.ccma.cat/tv3/alacarta/coleccions/'
 url_mesvist = 'http://www.ccma.cat/tv3/alacarta/mes-vist/'
